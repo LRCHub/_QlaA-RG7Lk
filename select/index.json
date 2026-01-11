@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青春応歌",
+  "base_artist": "VΔLZ",
+  "createdAt": "2026-01-11T10:09:35.881643Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青春応歌",
+      "artist": "VΔLZ",
+      "has_synced": false,
+      "path": "select/pl_01_青春応歌_VΔLZ.txt"
+    }
+  ]
+}
